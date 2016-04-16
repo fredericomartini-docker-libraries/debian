@@ -6,6 +6,8 @@
 
 #### - Installed:
 
-    nano
-    htop
+ - nano
+ - htop
+ - wget
+ - curl
 
